@@ -1,4 +1,5 @@
-# Style template
+# BeyondCSS - Chef
 
-This is a basic template to use when creating a website using SCSS, 
-Typescript, and Vite.
+This is the Chef project from the course BeyondCSS. The purpose is to 
+practice implementing a given design in CSS using the template created in 
+previous lessons.
